@@ -42,3 +42,4 @@ This Streamlit app allows users to apply various webcam filters, such as graysca
 
 ![image alt](https://github.com/PejayMarkMillan/ITBAN2_streamlit_Activity_Millan/blob/5768795cd130de826348989ed1ac85d9fd4cd8a8/Screenshot%20(257).png)
 
+![image alt](https://github.com/PejayMarkMillan/ITBAN2_streamlit_Activity_Millan/blob/6facf65caf6cadf0f234795028f1a846731b3bfd/act6_2.png)
