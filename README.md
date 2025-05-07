@@ -9,7 +9,7 @@ Activity 2
 
 In Activity 2, the Streamlit script allows users to upload a CSV file, which is then read into a DataFrame using pandas and displayed on the screen. After uploading, the app provides an interface to filter the data: the user selects a column from the CSV and chooses one or more values from that column using a dropdown and multiselect box. If values are selected, the app filters the DataFrame to show only rows where the selected column matches the chosen values and displays the filtered result; otherwise, it indicates that no filter has been applied.
 
-
+![image aLT](https://github.com/PejayMarkMillan/ITBAN2_streamlit_Activity_Millan/blob/b05b9fdcd06341cb60cb0d168502ae7b7820385f/Screenshot%20(253).png)
 
 Activity 3
 
