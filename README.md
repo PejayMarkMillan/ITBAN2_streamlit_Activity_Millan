@@ -33,6 +33,7 @@ Activity 5
 Activity 5 connects to a MySQL database and provides a hospital management dashboard with login authentication and the ability to view and insert records for doctors and patients. After a successful login, the user can select a table (either "doctors" or "patients") and view its contents, with an optional filter for SQL queries. The app also allows inserting new records into the selected table by filling out a form, and upon submission, it executes the corresponding SQL INSERT statement to add the record into the database, displaying a success message.
 
 ![image alt](https://github.com/PejayMarkMillan/ITBAN2_streamlit_Activity_Millan/blob/168b2a2da596f8bf8d7427a37392f66cab31a925/Screenshot%20(256).png)
+![image alt](https://github.com/PejayMarkMillan/ITBAN2_streamlit_Activity_Millan/blob/aa4382d82f4b0326ebbc967b7b20eee3aee1478c/act5.png)
 
 
 Activity 6
