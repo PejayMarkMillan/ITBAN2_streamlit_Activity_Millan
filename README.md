@@ -17,7 +17,7 @@ Activity 3
 In activity 3, it creates an interactive educational app focused on data warehousing and enterprise data management. It starts with a sidebar that allows users to select a topic from a dropdown, and a collapsible expander introduces the concept of data warehousing and EDM. Based on the selected topic, the main area displays relevant content using structured headers, columns, and bullet points—covering concepts like ETL, data integration, governance, and performance optimization—while additional learning materials are organized into three tabs discussing real-time analytics, cloud warehousing, and data archiving.
 
 ![image alt](https://github.com/PejayMarkMillan/ITBAN2_streamlit_Activity_Millan/blob/0ced8709553ba438337806e045006da53fe33424/Screenshot%20(254).png)
-
+![image alt](https://github.com/PejayMarkMillan/ITBAN2_streamlit_Activity_Millan/blob/e737cb0ad43015612e6dcc59fd81a37e354e12a9/act3.png)
 
 
 Activity 4
