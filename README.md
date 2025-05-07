@@ -25,6 +25,7 @@ Activity 4
 This Streamlit app creates an interactive COVID-19 data dashboard that lets users select a country (e.g., USA, Philippines) and fetches the last 30 days of historical data using the Disease.sh API. If the API request is successful and timeline data is available, the app processes the data into a Pandas DataFrame, converts dates for visualization, and displays various charts: a line chart for daily cases, a bar chart for daily deaths, an area chart for daily recoveries, and a pie chart summarizing the totals using Matplotlib. It concludes with a summary section showing total cases, deaths, and recoveries using st.metric; otherwise, it displays an error if the data is missing or the request fails.
 
 ![image alt](https://github.com/PejayMarkMillan/ITBAN2_streamlit_Activity_Millan/blob/f6b55eba17d60abaa7817a9a1fd3e84fbdc7cf70/Screenshot%20(255).png)
+![image lt](https://github.com/PejayMarkMillan/ITBAN2_streamlit_Activity_Millan/blob/6b9c463ff0a479442e7302cc9d0644b525369b66/act4.png)
 
 
 Activity 5
