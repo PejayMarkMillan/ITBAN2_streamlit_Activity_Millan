@@ -39,3 +39,6 @@ Activity 5 connects to a MySQL database and provides a hospital management dashb
 Activity 6
 
 This Streamlit app allows users to apply various webcam filters, such as grayscale, Canny edge detection, and face detection, to images taken with the webcam. Users can select a filter and adjust the Canny edge detection thresholds using a sidebar, and once a snapshot is captured, the app processes the image using OpenCV functions based on the chosen filter: converting to grayscale, applying edge detection, or detecting faces using a pre-trained Haar Cascade model. The processed image is then displayed on the app, allowing users to see the effect of the selected filter on the captured photo.
+
+![image alt](https://github.com/PejayMarkMillan/ITBAN2_streamlit_Activity_Millan/blob/5768795cd130de826348989ed1ac85d9fd4cd8a8/Screenshot%20(257).png)
+
