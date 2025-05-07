@@ -2,6 +2,7 @@ Activity 1
 
 This activity 1 creates a simple web application using Streamlit by first importing the library and displaying a title, header, and short description. It then presents three input fields to the user: one for their name, one for their age (with a minimum value of 1), and one for their email address. If all fields are filled out, the app displays a personalized message showing the user's name, age, and email using the st.write function.
 
+![image alt](https://github.com/PejayMarkMillan/ITBAN2_streamlit_Activity_Millan/blob/8ca44d14296f5ab3ad7f667c688a4a950a73e296/Screenshot%20(252).png)
 
 
 Activity 2
